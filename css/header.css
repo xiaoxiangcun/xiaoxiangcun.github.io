@@ -1,0 +1,24 @@
+.ul{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.ul-between{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.ul-column{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.spanColor{
+	color: #426aff;
+}
+.ul-start{
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
